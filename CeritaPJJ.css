@@ -1,11 +1,11 @@
 #t01{
-	background-color: #ffffcc
+	background-color: #ffffcc;
 }
 #t02{
-	color: #000066
+	color: #000066;
 }
 title {
-	text-align: center
+	text-align: center;
 }
 body {
 	background-image: url(gunung.jpg);
@@ -15,8 +15,8 @@ body {
 	width : 700px; margin:auto; background-color: #ffbb33;
 }
 .isi{
-	padding: 20px
+	padding: 20px;
 }
 .isi p{ 
-	text-align: justify
+	text-align: justify;
 }
