@@ -5,7 +5,7 @@ border-style {
 }
 
 header {
-	background-image:url(gunung.JPG); 
+	background-image:url(gunung.jpg); 
 	height: 90vh; 
 	background-size:cover; 
 	background-position:center;
@@ -68,7 +68,7 @@ ul li.active a {
 	transition: 0,5s;
 }
 
-.btn: hover { 
+.btn:hover { 
 	background-color: white; 
 	color: white;
 }
