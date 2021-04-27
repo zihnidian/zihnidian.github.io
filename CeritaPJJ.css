@@ -1,0 +1,22 @@
+#t01{
+	background-color: #ffffcc
+}
+#t02{
+	color: #000066
+}
+title {
+	text-align: center
+}
+body {
+	background-image: url(gunung.JPG);
+	background-size:cover; 
+}
+.background { 
+	width : 700px; margin:auto; background-color: #ffbb33;
+}
+.isi{
+	padding: 20px
+}
+.isi p{ 
+	text-align: justify
+}
