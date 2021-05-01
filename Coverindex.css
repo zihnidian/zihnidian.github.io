@@ -5,7 +5,7 @@ border-style {
 }
 
 header {
-	background-image:url(gunung.jpg); 
+	background-image:url(bromo.jpg); 
 	height: 90vh; 
 	background-size:cover; 
 	background-position:center;
@@ -41,8 +41,8 @@ ul li.active a {
 
 .title { 
 	position: absolute; 
-	top: 58%; 
-	left: 36%; 
+	top: 50%; 
+	left: 43%; 
 	transform: translate (-50%, -50%);
 }
 
@@ -54,8 +54,8 @@ ul li.active a {
 
 .button { 
 	position: absolute; 
-	top: 75%; 
-	left: 46%; 
+	top: 68%; 
+	left: 48%; 
 	color: white;
 	transform: translate (-50%, -50%);
 }
