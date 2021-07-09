@@ -1,0 +1,26 @@
+body {
+	background-color: #ffffcc;
+	background-size:cover; 
+}
+.background {
+	width: 700px;
+	margin: auto;
+	background-color: #ffbb33
+}
+img {
+	display: block; margin: auto;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin-left: 5cm;
+	margin-right: 5cm;
+	background-color: #ffbb33
+}
+th, td {
+	padding: 7px;
+	text-align: left;
+}
+.background { 
+	margin:auto; 
+	background-color: #ffccff;}
